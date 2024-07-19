@@ -1,8 +1,15 @@
-# React + Vite
+# Redux 직접 만들기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Redux를 직접 만들어보며 상태 관리에 대한 이해를 높일 수 있습니다!
 
-Currently, two official plugins are available:
+<a
+    href="https://www.markslides.ai/publications/Redux-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0-u4nFa0z3GY7fUcDviv714"
+    target="_blank"
+    rel="noopener noreferrer">
+    <img
+        src="https://cdn.markslides.ai/publications/u4nFa0z3GY7fUcDviv714/v1/Iu8l1f7mJ9imPM9sjLHcX" 
+        style="width:100%; max-width:600px; height:auto;"
+    />
+</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[🔗 슬라이드 링크](https://www.markslides.ai/publications/Redux-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EA%B8%B0-u4nFa0z3GY7fUcDviv714)
